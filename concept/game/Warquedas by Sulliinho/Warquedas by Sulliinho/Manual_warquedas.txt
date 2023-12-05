@@ -1,0 +1,4 @@
+Para navegar no menu- Use o mouse
+Para atirar= pressione a tecla "X"
+Para pausar durante a partida- aperte a tecla escape ou "Esc"
+para voltar para sair instanteneamente para a tela de titulo- aperte a tecla "R" 
